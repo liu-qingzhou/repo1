@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//mend01
+//mend02
 int main() {
 	cout << "hello" << endl;
 
